@@ -1,15 +1,18 @@
-# Title
+# Extracting Shared Actions Lab
 
 ## Objectives
 
--SWBAT 1
--SWBAT 2
+- Interpret existing functions to derive purpose
+- Modify expressions and statements while maintaining functionality
+- Separate out reoccurring expression or actions
 
-#### Introduction
+## Introduction
 
-#### SWBAT 1
+### Interpret existing functions to derive purpose
 
-#### SWBAT 2
+### Modify expressions and statements while maintaining functionality
+
+### Separate out reoccurring expression or actions
 
 ## Conclusion
 
